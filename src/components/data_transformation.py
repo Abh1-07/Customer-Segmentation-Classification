@@ -1,6 +1,5 @@
 import os
 import sys
-from dataclasses import dataclass
 from src.exception import CustomException
 from src.logger import logging
 
